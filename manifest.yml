@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: test nodejs1-1479536449971
-  host: test nodejs1-1479536449971
+  host: testnodejs1-1479536449971
   disk_quota: 1024M
